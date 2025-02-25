@@ -1,3 +1,9 @@
 body{
-    background-image: url("./img/main-image.png");
+    background: url("./img/bg.jpg") no-repeat top center/cover;
+}
+
+img{
+    border-radius: 16px;
+    width: 752px;
+    height: 400px;
 }
